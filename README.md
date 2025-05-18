@@ -1,93 +1,61 @@
 # Regex Data Extraction Project
 
 ## Overview
-This project uses **Python** and **Regular Expressions (Regex)** to extract specific types of data from a text file. It can detect and extract:
+This project extracts specific types of data from text using Regular Expressions (Regex) in Python.
 
-- Email Addresses  
-- URLs  
-- Phone Numbers  
+### Extracted Data Types:
+- Email Addresses
+- URLs
+- Phone Numbers (US formats)
 - Credit Card Numbers
+- Time (12-hour and 24-hour)
+- HTML Tags
+- Hashtags
+- Currency Amounts
 
 ## Technologies Used
-- Python 3.x  
-- Regular Expressions (`re` module)
+- Python 3
+- Regex (`re` module)
 
-## How to Use This Project
+## Setup Instructions
 
-### 1. Clone the Repository
-Replace `yourusername` with your GitHub username:
+1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/alu_regex-data-extraction-yourusername.git
+git clone https://github.com/YourUsername/alu_regex-data-extraction-YourUsername.git
+cd alu_regex-data-extraction-YourUsername
 ```
 
-### 2. Open the Project Folder
+2. **Ensure Python is Installed**
 ```bash
-cd alu_regex-data-extraction-yourusername
+python3 --version
 ```
 
-### 3. Make Sure Python is Installed
-Check your Python version:
+3. **Run the Script**
 ```bash
-python --version
+python3 extract_data.py
 ```
 
-### 4. Review the Sample File
-Open `sample_text.txt`. This file already contains text with:
-- Emails
-- Links
-- Phone numbers
-- Credit card numbers  
-(So you don’t need to add anything unless you want to test more.)
+## Sample Data File (sample_text.txt)
+The sample file includes all required data formats such as:
+- Emails like `user@example.com`
+- URLs like `https://www.example.com`
+- Phone numbers like `(123) 456-7890`
+- Credit card numbers like `1234 5678 9012 3456`
+- Time like `14:30` and `2:30 PM`
+- HTML tags like `<p>` and `<img src="image.jpg">`
+- Hashtags like `#example`
+- Currency like `$19.99`
 
-### 5. Run the Program
-This will print the extracted data:
-```bash
-python extract_data.py
-```
-
----
-
-## Example: What’s Inside the Sample File
-
-`sample_text.txt` includes:
-```
-Please contact us at support@example.com or info.company@domain.co.uk.
-Visit our site: https://www.example.com or https://subdomain.example.org/page.
-Phone: (123) 456-7890, 123-456-7890, 123.456.7890.
-Card: 1234 5678 9012 3456 or 1234-5678-9012-3456.
-Time: 14:30 and 2:30 PM.
-Tags: <p>, <div class="example">, <img src="...">.
-Hashtags: #Regex #Python
-Price: $19.99 or $1,234.56.
-```
-
----
-
-## Example Output
-When you run the script, you’ll see:
+## Output Example
+When you run the script, it prints extracted values like:
 ```
 Emails:
-support@example.com
-info.company@domain.co.uk
+user@example.com
+firstname.lastname@company.co.uk
 
 URLs:
 https://www.example.com
 https://subdomain.example.org/page
 
-Phone Numbers:
-(123) 456-7890
-123-456-7890
-123.456.7890
-
-Credit Card Numbers:
-1234 5678 9012 3456
-1234-5678-9012-3456
+...
 ```
-
----
-
-## Notes on Edge Cases
-- Works with or without "www" in URLs
-- Accepts multiple phone formats
-- Handles emails with dots, plus signs, and subdomains
-- Detects card numbers with spaces or dashes

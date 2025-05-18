@@ -1,22 +1,8 @@
-Please contact us at t.uwayesu@alustudent.com for project inquiries.
-You can also reach our team via info@rwandadev.org or dev.support@tech.rw.
-
-Visit our main site: https://www.timothee-projects.com
-Check out our blog at https://blog.timothee.dev/articles/regex-hackathon
-
-For quick support, call +250 788 123 456 or +250 722 456 789.
-
-You can also reach our office lines at +250-784-321-654 or +250.738.654.321.
-
-Use your VISA or Mastercard: 1234 5678 9012 3456 or 4321-8765-2109-6543.
-
-Our meeting will be held at 14:30 (Kigali time), or join remotely at 2:00 PM.
-
-#TimotheeRwanda #RegexHackathon #ALUProjects
-
-Service packages range from $29.99 to $1,000.00.
-
-<div class="announcement">
-    <p>Hello Timothée! This is your regex test sample. 🎯</p>
-    <img src="regex-banner.jpg" alt="Regex Hackathon Image">
-</div>
+Please contact us via email: user@example.com or firstname.lastname@company.co.uk.
+Visit our website: https://www.example.com or https://subdomain.example.org/page for more information.
+Call us at (123) 456-7890, 123-456-7890, or 123.456.7890.
+Use your credit card 1234 5678 9012 3456 or 1234-5678-9012-3456 to make payments.
+The event starts at 14:30 and ends at 2:30 PM.
+Here are some HTML tags: <p> <div class="example"> <img src="image.jpg" alt="description">
+Use hashtags like #example or #ThisIsAHashtag to join the conversation.
+The price is $19.99 or sometimes even $1,234.56 depending on the offer.
