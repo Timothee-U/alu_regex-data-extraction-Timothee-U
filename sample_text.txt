@@ -1,29 +1,22 @@
-Hello,
+Please contact us at t.uwayesu@alustudent.com for project inquiries.
+You can also reach our team via info@rwandadev.org or dev.support@tech.rw.
 
-Please contact us at support@example.com or info.company@domain.co.uk for more information.
+Visit our main site: https://www.timothee-projects.com
+Check out our blog at https://blog.timothee.dev/articles/regex-hackathon
 
-Visit our site: https://www.example.com or check https://subdomain.example.org/page for updates.
+For quick support, call +250 788 123 456 or +250 722 456 789.
 
-Phone Numbers to reach us:
-- (123) 456-7890
-- 123-456-7890
-- 123.456.7890
+You can also reach our office lines at +250-784-321-654 or +250.738.654.321.
 
-You can use your credit card to pay:
-- 1234 5678 9012 3456
-- 1234-5678-9012-3456
+Use your VISA or Mastercard: 1234 5678 9012 3456 or 4321-8765-2109-6543.
 
-Meeting times:
-- 14:30
-- 2:30 PM
-- 11:59 am
+Our meeting will be held at 14:30 (Kigali time), or join remotely at 2:00 PM.
 
-Here are some HTML samples:
-<p>This is a paragraph.</p>
-<div class="example">This is a div</div>
-<img src="image.jpg" alt="sample image" />
-<a href="https://link.com">Click Here</a>
+#TimotheeRwanda #RegexHackathon #ALUProjects
 
-Thank you!
-#Regex #DataExtraction #Python
-Price: $19.99 or $1,234.56
+Service packages range from $29.99 to $1,000.00.
+
+<div class="announcement">
+    <p>Hello Timothée! This is your regex test sample. 🎯</p>
+    <img src="regex-banner.jpg" alt="Regex Hackathon Image">
+</div>
