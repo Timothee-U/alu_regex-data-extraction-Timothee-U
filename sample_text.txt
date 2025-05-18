@@ -1,0 +1,29 @@
+Hello,
+
+Please contact us at support@example.com or info.company@domain.co.uk for more information.
+
+Visit our site: https://www.example.com or check https://subdomain.example.org/page for updates.
+
+Phone Numbers to reach us:
+- (123) 456-7890
+- 123-456-7890
+- 123.456.7890
+
+You can use your credit card to pay:
+- 1234 5678 9012 3456
+- 1234-5678-9012-3456
+
+Meeting times:
+- 14:30
+- 2:30 PM
+- 11:59 am
+
+Here are some HTML samples:
+<p>This is a paragraph.</p>
+<div class="example">This is a div</div>
+<img src="image.jpg" alt="sample image" />
+<a href="https://link.com">Click Here</a>
+
+Thank you!
+#Regex #DataExtraction #Python
+Price: $19.99 or $1,234.56
